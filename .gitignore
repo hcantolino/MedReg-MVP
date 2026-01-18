@@ -1,0 +1,14 @@
+# Virtual environment - NEVER commit this!
+venv/
+
+# Python caches/bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS junk
+.DS_Store
+
+# Other common
+*.log
+.secrets.toml
